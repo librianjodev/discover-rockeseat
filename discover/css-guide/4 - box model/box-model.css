@@ -1,0 +1,5 @@
+h1 {
+    border: 1px solid red; /* Definindo o tamanho, o tipo e a cor do contorno da borda */
+    margin: 200px; /* Definindo o tamanho do espaço entre a caixa e os elementos externos: a margem */
+    padding: 10px; /* Definindo o tamanho do espaço entre a caixa e os elementos internos: o padding */
+}

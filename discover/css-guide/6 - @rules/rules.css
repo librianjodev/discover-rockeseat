@@ -1,0 +1,30 @@
+/* São regras relacionadas ao comportamento do CSS, começa com um sinal de @ seguido do identificador e do valor. */
+
+/* @import: serve para incluir um CSS externalizado em um arquivo. */
+/* @media: são regras condicionais para vários dispositivos */
+/* @keyframes: são regras de animação */
+/* @font-face: são regras de fontes externas */
+
+/* Exemplos: */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+@media (min-width: 500px){
+    h1 {
+        font-size: 2rem;
+    }
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url();
+}

@@ -1,0 +1,26 @@
+/* Anatomia do arquivo CSS */
+
+/*  Seletor:
+    Serve para identificar o elemento a ser alterado. Pode ser definido por uma tag HTML, classe, id ou (.) para todos os elementos.
+
+    Declaração:
+    Composto por um par de chaves ({}) e tudo que houver dentro dele, servindo para delimitar o espaço onde sertão definidas as propriedades e os seus valores no CSS.
+
+    Propriedades:
+    Definem as características a serem alteradas em cada elemento através do CSS.
+
+    Valor da propriedade:
+    São os valores a serem atribuidos às propriedades.
+
+    Exemplo:
+*/
+
+/* Seletor */
+h1 { /* Início da declaração */
+	
+    /* Propriedade: Valor da Propriedade */
+    color: blue; /* Muda a cor do elemento */
+	font-size: 60px; /* Muda o tamando da fonte do elemento */
+	background: gray; /* Muda a cor do plano de fundo (background) elemento */
+
+} /* Fim da declaração */

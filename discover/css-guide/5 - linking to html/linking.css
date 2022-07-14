@@ -1,0 +1,10 @@
+/* Atribuindo CSS dentro do arquivo CSS com a tag @import*/
+@import 'https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap';
+
+h1 {
+  color: blue;
+}
+
+strong {
+  color: red;
+}
