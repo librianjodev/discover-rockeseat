@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+}
+
+div, section {
+    margin: 20% auto;
+    width: 100px;
+    height: 100px;
+
+    border: 20px red solid;
+    box-sizing: border-box;
+
+    outline: yellow solid 20px;
+}

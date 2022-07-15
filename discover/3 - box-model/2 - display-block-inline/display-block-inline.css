@@ -1,0 +1,8 @@
+div {
+    height: 100px;
+}
+
+span {
+    margin: 10px; /* Irá se aplicar apenas na horizontal */
+    border: 1px solid green;
+}

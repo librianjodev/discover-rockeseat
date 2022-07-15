@@ -1,0 +1,28 @@
+* {
+    margin: 0; /* This is the default value for all elements */
+}
+
+div, section {
+    border: 1px solid red;
+    width: 100px;
+    height: 100px;
+
+    margin: 0 2px;
+
+    display: inline;
+}
+
+/*
+
+Margin-collapsing ocorre quando os valores de margem de dois elementos diferentes são iguais, se anulando. Só ocorre com margens do topo e fundo. 
+
+Exemplo:
+
+div {
+    margin-bottom: 8px;
+}
+
+section {
+    margin-bottom: 8px;
+}
+*/
