@@ -1,0 +1,7 @@
+div {
+    width: 100px; /* Largura da div */
+    height: 100px; /* Altura da div */
+    border: 1px solid red; /* Borda da div (espessura, tracejado e cor) */
+    margin: 10%; /* Margem da div */
+    padding: 0 20px; /* Preenchimento da div */
+}

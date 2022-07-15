@@ -1,0 +1,11 @@
+body {
+    height: 100vh;
+    margin: 0;
+}
+
+.box {
+    height: calc(100% - 4px);
+    width: 100%;
+    background-image: url(https://source.unplash.com/random/400x300);
+    background-position: bottom right;
+}
